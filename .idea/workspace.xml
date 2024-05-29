@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="143be585-60dc-4d6a-9039-a2dc3392b760" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iphone-uml-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jaquesprojetos/iphone/components/InternetCommunicator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jaquesprojetos/iphone/components/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jaquesprojetos/iphone/components/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/jaquesprojetos/iphone/iPhone.java" afterDir="false" />
-    </list>
+    <list default="true" id="143be585-60dc-4d6a-9039-a2dc3392b760" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LeonardoJaques"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LeonardoJaques/iphone-uml-java.git",
+    "accountId": "231fd8d1-37b7-41ef-b8c8-5b5668e0ce56"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>

@@ -63,4 +63,5 @@ O projeto está organizado em pacotes para melhor modularidade e manutenção:
 
 ## Diagrama de Classes UML
 
-![Diagrama de classes UML do iPhone]([[http://www.plantuml.com/plantuml/img/<código PlantUML do diagrama>](https://www.plantuml.com/plantuml/png/NSj12i8m48NXVK-HfU8b2kAo81HqFKqV6fqqfPDf4V7k1go5P7RpyVvQ8arHFLUMISIuypqCCE_Af3kOaUdLg3Yxs_-5L92Jn30M0eQDRHXk6r7_K8cNmEgHS5LFJno9UPjDi71pRXZwx9S4RTEMpOzMwwQm2AxeikhaoN7PvJWxB0sDak1JrQbHpry0)])
+## Diagrama de Classes UML
+![Diagrama de classes UML do iPhone](https://www.plantuml.com/plantuml/png/NSj12i8m48NXVK-HfU8b2kAo81HqFKqV6fqqfPDf4V7k1go5P7RpyVvQ8arHFLUMISIuypqCCE_Af3kOaUdLg3Yxs_-5L92Jn30M0eQDRHXk6r7_K8cNmEgHS5LFJno9UPjDi71pRXZwx9S4RTEMpOzMwwQm2AxeikhaoN7PvJWxB0sDak1JrQbHpry0)

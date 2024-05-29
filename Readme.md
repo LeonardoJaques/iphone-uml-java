@@ -61,7 +61,6 @@ O projeto está organizado em pacotes para melhor modularidade e manutenção:
 
 **Disclaimer:** Este projeto é apenas um exercício de programação e não tem nenhuma afiliação com a Apple Inc. ou o produto iPhone.
 
-## Diagrama de Classes UML
 
 ## Diagrama de Classes UML
 ![Diagrama de classes UML do iPhone](https://www.plantuml.com/plantuml/png/NSj12i8m48NXVK-HfU8b2kAo81HqFKqV6fqqfPDf4V7k1go5P7RpyVvQ8arHFLUMISIuypqCCE_Af3kOaUdLg3Yxs_-5L92Jn30M0eQDRHXk6r7_K8cNmEgHS5LFJno9UPjDi71pRXZwx9S4RTEMpOzMwwQm2AxeikhaoN7PvJWxB0sDak1JrQbHpry0)

@@ -1,7 +1,9 @@
+package br.com.jaquesprojetos.iphone.components;
+
 /**
  * Represents the internet communication functionality of an iPhone.
  */
-class InternetCommunicator {
+public class InternetCommunicator {
 
     /**
      * Opens a web browser for internet browsing.

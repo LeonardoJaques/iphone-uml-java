@@ -1,7 +1,9 @@
+package br.com.jaquesprojetos.iphone.components;
+
 /**
  * Represents the music player functionality of an iPhone.
  */
-class MusicPlayer {
+public class MusicPlayer {
 
     /**
      * Starts playing music.

@@ -1,8 +1,20 @@
+package br.com.jaquesprojetos.iphone;
+
+
+import br.com.jaquesprojetos.iphone.components.InternetCommunicator;
+import br.com.jaquesprojetos.iphone.components.MusicPlayer;
+import br.com.jaquesprojetos.iphone.components.Phone;
+
 /**
  * Represents an iPhone device with music player, phone, and internet functionalities.
  */
 public class iPhone {
-
+    public static void main(String[] args) {
+        iPhone iphone = new iPhone();
+        iphone.playMusic();
+        iphone.makeCall();
+        iphone.browseWeb();
+    }
     private MusicPlayer musicPlayer;
     private Phone phone;
     private InternetCommunicator internetCommunicator;
@@ -10,6 +22,7 @@ public class iPhone {
     /**
      * Constructs an iPhone object, initializing its music player, phone, and internet communicator components.
      */
+
     public iPhone() {
         this.musicPlayer = new MusicPlayer();
         this.phone = new Phone();

@@ -1,7 +1,9 @@
+package br.com.jaquesprojetos.iphone.components;
+
 /**
  * Represents the phone functionality of an iPhone.
  */
-class Phone {
+public class Phone {
     /**
      * Initiates a phone call.
      */
